@@ -1,0 +1,2 @@
+# Barrista
+Play with bots
